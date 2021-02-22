@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Coffee_Machine.iml" filepath="$PROJECT_DIR$/.idea/modules/Coffee_Machine.iml" group="Coffee_Machine" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Coffee Machine/task/Coffee_Machine-task.iml" filepath="$PROJECT_DIR$/.idea/modules/Coffee Machine/task/Coffee_Machine-task.iml" group="Coffee_Machine/Coffee_Machine-task" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Coffee Machine/task/Coffee_Machine-task_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Coffee Machine/task/Coffee_Machine-task_main.iml" group="Coffee_Machine/Coffee_Machine-task" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Coffee Machine/task/Coffee_Machine-task_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Coffee Machine/task/Coffee_Machine-task_test.iml" group="Coffee_Machine/Coffee_Machine-task" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/A simple calculator/Problems-A_simple_calculator.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/A simple calculator/Problems-A_simple_calculator.iml" group="Coffee_Machine/Problems-A_simple_calculator" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/A simple calculator/Problems-A_simple_calculator_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/A simple calculator/Problems-A_simple_calculator_main.iml" group="Coffee_Machine/Problems-A_simple_calculator" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/A simple calculator/Problems-A_simple_calculator_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/A simple calculator/Problems-A_simple_calculator_test.iml" group="Coffee_Machine/Problems-A_simple_calculator" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Check if an array is sorted ascending/Problems-Check_if_an_array_is_sorted_ascending.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Check if an array is sorted ascending/Problems-Check_if_an_array_is_sorted_ascending.iml" group="Coffee_Machine/Problems-Check_if_an_array_is_sorted_ascending" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Check if an array is sorted ascending/Problems-Check_if_an_array_is_sorted_ascending_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Check if an array is sorted ascending/Problems-Check_if_an_array_is_sorted_ascending_main.iml" group="Coffee_Machine/Problems-Check_if_an_array_is_sorted_ascending" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Check if an array is sorted ascending/Problems-Check_if_an_array_is_sorted_ascending_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Check if an array is sorted ascending/Problems-Check_if_an_array_is_sorted_ascending_test.iml" group="Coffee_Machine/Problems-Check_if_an_array_is_sorted_ascending" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Create a full name/Problems-Create_a_full_name.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Create a full name/Problems-Create_a_full_name.iml" group="Coffee_Machine/Problems-Create_a_full_name" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Create a full name/Problems-Create_a_full_name_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Create a full name/Problems-Create_a_full_name_main.iml" group="Coffee_Machine/Problems-Create_a_full_name" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Create a full name/Problems-Create_a_full_name_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Create a full name/Problems-Create_a_full_name_test.iml" group="Coffee_Machine/Problems-Create_a_full_name" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Profit/Problems-Profit.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Profit/Problems-Profit.iml" group="Coffee_Machine/Problems-Profit" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Profit/Problems-Profit_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Profit/Problems-Profit_main.iml" group="Coffee_Machine/Problems-Profit" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Profit/Problems-Profit_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Profit/Problems-Profit_test.iml" group="Coffee_Machine/Problems-Profit" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/The (un)-ordered sequence/Problems-The__un_-ordered_sequence.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/The (un)-ordered sequence/Problems-The__un_-ordered_sequence.iml" group="Coffee_Machine/Problems-The__un_-ordered_sequence" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/The (un)-ordered sequence/Problems-The__un_-ordered_sequence_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/The (un)-ordered sequence/Problems-The__un_-ordered_sequence_main.iml" group="Coffee_Machine/Problems-The__un_-ordered_sequence" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/The (un)-ordered sequence/Problems-The__un_-ordered_sequence_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/The (un)-ordered sequence/Problems-The__un_-ordered_sequence_test.iml" group="Coffee_Machine/Problems-The__un_-ordered_sequence" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/util.iml" filepath="$PROJECT_DIR$/.idea/modules/util/util.iml" group="Coffee_Machine/util" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/util_main.iml" filepath="$PROJECT_DIR$/.idea/modules/util/util_main.iml" group="Coffee_Machine/util" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/util_test.iml" filepath="$PROJECT_DIR$/.idea/modules/util/util_test.iml" group="Coffee_Machine/util" />
+    </modules>
+  </component>
+</project>
